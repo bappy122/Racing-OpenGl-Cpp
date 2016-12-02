@@ -1,0 +1,1 @@
+to play sound, Codeblocks -> Settings -> Compiler -> Linker Settings -> add -> enter 'winmm' -> ok.
